@@ -1,6 +1,6 @@
 # EditorWidgetBugAngular
 
-Editor Widget bugged to edit and update/add attachment. The bug is not present out of Chromium based browsers but doesnt work with Chrome, Safari...
+Editor Widget bugged to edit features and also to update/add attachment. The bug is not present out of Chromium based browsers but doesnt work with Chrome, Safari...
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
